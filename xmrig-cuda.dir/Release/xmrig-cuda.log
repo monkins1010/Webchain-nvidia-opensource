@@ -1,0 +1,7 @@
+﻿  Building NVCC (Device) object CMakeFiles/xmrig-cuda.dir/src/nvidia/Release/xmrig-cuda_generated_cuda_core.cu.obj
+  CMake Error at xmrig-cuda_generated_cuda_core.cu.obj.Release.cmake:219 (message):
+    Error generating
+    D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir/src/nvidia/Release/xmrig-cuda_generated_cuda_core.cu.obj
+  
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(209,5): error MSB6006: "cmd.exe" exited with code 1.

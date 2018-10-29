@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindCUDA/run_nvcc.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/3.12.0-rc3/CMakeCCompiler.cmake
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/3.12.0-rc3/CMakeCXXCompiler.cmake
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/3.12.0-rc3/CMakeRCCompiler.cmake
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/3.12.0-rc3/CMakeSystem.cmake
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_core.cu.obj.cmake.pre-gen
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_core.cu.obj.depend
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_extra.cu.obj.cmake.pre-gen
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir/src/nvidia/xmrig-cuda_generated_cuda_extra.cu.obj.depend
+D:/5/xmrig-nvidia-2.6.1/CMakeLists.txt
+D:/5/xmrig-nvidia-2.6.1/cmake/CUDA.cmake
+D:/5/xmrig-nvidia-2.6.1/cmake/FindMHD.cmake
+D:/5/xmrig-nvidia-2.6.1/cmake/FindNVML.cmake
+D:/5/xmrig-nvidia-2.6.1/cmake/FindUV.cmake
+D:/5/xmrig-nvidia-2.6.1/cmake/flags.cmake

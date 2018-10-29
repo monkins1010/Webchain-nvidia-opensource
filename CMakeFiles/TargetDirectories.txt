@@ -1,0 +1,4 @@
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-cuda.dir
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/xmrig-nvidia.dir
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/ALL_BUILD.dir
+D:/5/xmrig-nvidia-2.6.1/CMakeFiles/ZERO_CHECK.dir

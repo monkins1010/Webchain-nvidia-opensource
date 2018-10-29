@@ -1,0 +1,35 @@
+{
+    "algo": "cryptonight-webchain",
+    "background": false,
+    "colors": true,
+    "donate-level": 0,
+    "log-file": null,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "threads": [
+        {
+            "index": 0,
+            "threads": 26,
+            "blocks": 27,
+            "bfactor": 6,
+            "bsleep": 25,
+            "affine_to_cpu": false
+        }
+    ],
+    "pools": [
+        {
+            "url": "webcn.loudmining.com:3333",
+            "user": "0x984378faae9b68bd1b288209c7137a5c3bfe3506",
+            "pass": "mint",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": 1
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
